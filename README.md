@@ -2,6 +2,7 @@
 Đồ án OOP Java Swing 2022 Cù Văn Khoa 107865
 
 Phân tích thiết kế dự án:
+
 ![sơ đồ class](https://github.com/cuvanblue/ProjectATMSimulator/assets/104894745/6dd1e640-4858-4061-aa52-810c4fb08e2e)
 ![sơ đồ use case](https://github.com/cuvanblue/ProjectATMSimulator/assets/104894745/bd4f4c82-1657-4804-ad76-5ceec2605d29)
 ![sơ đồ tuần tự chuyển khoản](https://github.com/cuvanblue/ProjectATMSimulator/assets/104894745/6fe8216e-8e9d-4743-92ac-41109390d847)
@@ -13,6 +14,7 @@ Phân tích thiết kế dự án:
 
 
 Demo giao diện người dùng:
+
 ![a1](https://github.com/cuvanblue/ProjectATMSimulator/assets/104894745/7a90bf5c-e0b8-48fb-ba2e-8ff751dde345)
 ![a2](https://github.com/cuvanblue/ProjectATMSimulator/assets/104894745/c0335a80-493c-4d56-8775-16a33c591d8e)
 ![a3](https://github.com/cuvanblue/ProjectATMSimulator/assets/104894745/7f3072d5-b713-4949-b625-95d51d184039)
